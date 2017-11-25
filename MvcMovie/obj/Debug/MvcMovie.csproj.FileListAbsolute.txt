@@ -155,6 +155,5 @@ H:\Training\CSharp\MovieRental_MVC\MvcMovie\bin\ko\System.Spatial.resources.dll
 H:\Training\CSharp\MovieRental_MVC\MvcMovie\bin\ru\System.Spatial.resources.dll
 H:\Training\CSharp\MovieRental_MVC\MvcMovie\bin\zh-Hans\System.Spatial.resources.dll
 H:\Training\CSharp\MovieRental_MVC\MvcMovie\bin\zh-Hant\System.Spatial.resources.dll
-H:\Training\CSharp\MovieRental_MVC\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 H:\Training\CSharp\MovieRental_MVC\MvcMovie\obj\Debug\MvcMovie.dll
 H:\Training\CSharp\MovieRental_MVC\MvcMovie\obj\Debug\MvcMovie.pdb
